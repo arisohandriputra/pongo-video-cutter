@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PongoVideoCutter
+</name>
+</assembly>
+<members>
+<member name="T:Pongo_Video_Cutter.frmAbout">
+	<summary>
+  About box for Pongo Video Cutter. Shows version info, developer
+  credit, and quick links to the homepage, license page and the
+  third-party libraries we depend on.
+ </summary>
+</member>
+</members>
+</doc>
