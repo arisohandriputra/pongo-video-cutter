@@ -26,7 +26,6 @@ Pongo Video Cutter lets you cut and merge video files **without re-encoding**, s
 - **Recent files list** — quick access to the last 10 files you opened.
 - **Drag-and-drop** — drop a video anywhere on the window to open it.
 - **FFmpeg auto-detect** — looks for `ffmpeg.exe` / `ffprobe.exe` next to the app, or lets you point at your own copy via *Settings → FFmpeg Path*.
-- **Pro dark theme** — modern dark UI inspired by Adobe Premiere / DaVinci Resolve.
 
 ---
 
