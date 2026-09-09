@@ -1,0 +1,17 @@
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\bin\Debug\Pongo Video Cutter.exe.config
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\bin\Debug\Pongo Video Cutter.exe
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\bin\Debug\Pongo Video Cutter.pdb
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\bin\Debug\Pongo Video Cutter.xml
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\bin\Debug\DirectShowLib-2005.dll
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\Pongo_Video_Cutter.FFmpeg_Path.resources
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\Pongo_Video_Cutter.Form1.resources
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\Pongo_Video_Cutter.frmAbout.resources
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\Pongo_Video_Cutter.frmCaption.resources
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\Pongo_Video_Cutter.frmSplash.resources
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\Pongo_Video_Cutter.Resources.resources
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\Pongo Video Cutter.exe
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\Pongo Video Cutter.xml
+C:\Users\ACER\Documents\Program\Pongo Video Cutter_NEW\2.0\Pongo_Video_Cutter\obj\x86\Debug\Pongo Video Cutter.pdb
