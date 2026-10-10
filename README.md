@@ -6,8 +6,6 @@ Pongo Video Cutter lets you cut and merge video files **without re-encoding**, s
 
 ![Pongo Video Cutter](Resources/animated.gif)
 
-- **Project home:** <https://pongo.my.id>
-- **Developer:** [Ari Sohandri Putra](https://github.com/arisohandriputra)
 - **License:** MIT (see `LICENSE` or <https://pongo.my.id/license.htm>)
 - **Platform:** Windows 7 SP1 or newer (32-bit `x86` build)
 - **Runtime:** .NET Framework 2.0 (ships with Windows 7+)
@@ -205,7 +203,6 @@ The third-party libraries this project depends on remain under their own license
 
 **Ari Sohandri Putra**
 
-- Web:    <https://pongo.my.id>
 - GitHub: <https://github.com/arisohandriputra>
 - Email:  `arisohandriputra@gmail.com`
 
