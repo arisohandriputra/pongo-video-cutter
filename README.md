@@ -6,7 +6,6 @@ Pongo Video Cutter lets you cut and merge video files **without re-encoding**, s
 
 ![Pongo Video Cutter](Resources/animated.gif)
 
-- **License:** MIT (see `LICENSE` or <https://pongo.my.id/license.htm>)
 - **Platform:** Windows 7 SP1 or newer (32-bit `x86` build)
 - **Runtime:** .NET Framework 2.0 (ships with Windows 7+)
 
